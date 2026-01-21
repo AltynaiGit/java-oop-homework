@@ -1,9 +1,10 @@
 package org.example;
 
 public class Animal {
-   public String name;
+    String name;
 
-   public void makeSound(){
-       System.out.println("Животное издает звук");
-   }
+    public void makeSound() {
+        System.out.println("Животное издает звук");
+    }
 }
+
